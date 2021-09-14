@@ -1,6 +1,7 @@
 # game_dice_vuejs
 
-> A Vue.js project
+> A Vue.js, Dice game
+> Simple 2 player dice game
 
 ## Build Setup
 
